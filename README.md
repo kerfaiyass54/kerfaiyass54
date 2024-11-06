@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there, I am Yassine KERFAI 👋<br><br>- Enthusiatic and motivated Software Developer<br>- 🎓Took CS Engineering courses from the National School of Engineering of Tunis (ENIT)<br>- 📚Gained knowledge about different programming languages (Python, C++, Java, HTML/CSS/Javascript)<br>- 🚀Boosted my skills in many other skills (Frameworks like Angular and Spring Boot, Linux, Databases, Scrum methodology...)<br>- 📊Always learning things about Web and Mobile Development and DevOps<br>
+## Hi there, I am Yassine KERFAI 👋<br><br>- Enthusiatic and motivated Software Developer<br>- 🎓Took CS Engineering courses from the National School of Engineering of Tunis (ENIT)<br>- 📚Gained knowledge about different programming languages (Python, C++, Java, HTML/CSS/Javascript)<br>- 🚀Boosted my knowledge in many other skills (Frameworks like Angular and Spring Boot, Linux, Databases, Scrum methodology...)<br>- 📊Always learning things about Web and Mobile Development and DevOps<br>
 
 
 ## 🌐 Socials:
