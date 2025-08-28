@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yassine KERFAI from Tunisia<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm skilled at many programming languages and frameworks<br>- ⚡ I'm currently learning more about DevOps, Web development and AI
+I'm Yassine KERFAI from Tunisia<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm skilled at many programming languages and frameworks<br>- ⚡ I'm currently learning more about DevOps, Web development, Cloud and AI
 
 
 ## 🌐 Socials:
