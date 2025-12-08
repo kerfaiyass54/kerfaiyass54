@@ -121,13 +121,9 @@ Let’s build something amazing together! ✨
 ## 📊 GitHub Stats & Activity
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kerfaiyass54&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerfaiyass54&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kerfaiyass54&theme=radical&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kerfaiyass54&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
