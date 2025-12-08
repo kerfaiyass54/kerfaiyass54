@@ -120,17 +120,15 @@ Let’s build something amazing together! ✨
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
+## 📊 GitHub Stats & Activity
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kerfaiyass54&theme=onedark&column=7&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kerfaiyass54&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerfaiyass54&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerfaiyass54&theme=radical&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&layout=compact&theme=radical&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerfaiyass54&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
 
 ---
 
