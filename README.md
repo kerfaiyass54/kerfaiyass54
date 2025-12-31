@@ -76,13 +76,8 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kerfaiyass54&theme=onedark&column=7&margin-w=15&margin-h=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerfaiyass54&theme=dark&hide_border=true)
 
 </div>
 
