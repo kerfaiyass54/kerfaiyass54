@@ -76,7 +76,8 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&layout=compact&theme=tokyonight)
 
 
 </div>
