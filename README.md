@@ -11,6 +11,12 @@
 # Hi 👋, I'm Yassine KERFAI ✨  
 ### 🚀 A passionate developer from Tunisia 🇹🇳
 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=مرحبا+بكم+👋;Software+Engineer;Bienvenue+👋;Ingénieur+Logiciel;Welcome+👋;Software+Engineer;Willkommen+👋;Softwareingenieur" />
+</a>
+
+
+
 </div>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/master/assets/Night-Coding.gif" align="right"/>
