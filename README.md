@@ -13,6 +13,8 @@
 
 </div>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/master/assets/Night-Coding.gif" align="right"/>
+
 ---
 
 ## 🚀 About Me
