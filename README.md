@@ -6,17 +6,38 @@
 
 <h1 align="center">Welcome to my GitHub profile👋</h1>
 
-###
+<div align="center">
 
-<h3 align="left">👩‍💻  About Me</h3>
+# Hi 👋, I'm Yassine KERFAI ✨  
+### 🚀 A passionate developer from Tunisia 🇹🇳
 
-###
+</div>
 
-<p align="left">I'm Yassine KERFAI from Tunisia<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm skilled at many programming languages and frameworks<br>- ⚡ I'm currently learning more about DevOps, Web development and AI</p>
+---
 
-###
+## 🚀 About Me
 
-<h3 align="left">🛠 Language and tools</h3>
+Hey there! 👋 I'm **Yassine Kerfai**, a driven and detail-oriented developer who loves turning ideas into clean, functional, and beautiful digital experiences. 💡  
+
+I enjoy building projects that challenge me, push boundaries, and inspire creativity. Whether it's front-end UI magic 🎨 or logical back-end problem-solving 🧠, I love what I do — and I’m always learning.
+
+### 💻 What drives me:
+- ⚙️ Innovating through code & new technologies  
+- 🔍 Solving real-world problems with simple solutions  
+- 🌍 Creating polished experiences users love  
+- 📈 Growing and improving every day  
+
+Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or enjoying good music 🎶 and coffee ☕.
+
+✨ **Let’s build something amazing together!**
+
+---
+
+## 📚 Learning & Growth
+
+- 🌱 Currently diving into **modern web development**, exploring **AI fields**, improving **problem-solving skills**, and sharpening my **developer mindset** every day.
+
+---
 
 ###
 
