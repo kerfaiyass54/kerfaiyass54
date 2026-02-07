@@ -233,6 +233,15 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-phi.vercel.app?user=kerfaiyass54&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 </div>
 
