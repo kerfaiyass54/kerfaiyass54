@@ -226,8 +226,14 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kerfaiyass54&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerfaiyass54&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-phi.vercel.app?user=kerfaiyass54&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
+
 </div>
 
 ###
