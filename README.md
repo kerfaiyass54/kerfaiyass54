@@ -231,14 +231,14 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&locale=de)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&locale=fr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&locale=en)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&locale=en)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&locale=ar)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&locale=ar)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&locale=fr)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&locale=de)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&langs_count=10)
