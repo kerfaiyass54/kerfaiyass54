@@ -197,13 +197,6 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 ###
 
-<h3 align="left">🌱 Work progress</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">💬 Social media</h3>
 
