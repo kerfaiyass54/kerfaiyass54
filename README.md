@@ -233,38 +233,9 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerfaiyass54&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+![GitHub Stats](https://github-readme-stats-kerfai-yassine-2026.onrender.com/api?username=kerfaiyass54)
 
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-phi.vercel.app?user=kerfaiyass54&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/kerfaiyass54">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kerfaiyass54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kerfaiyass54&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kerfaiyass54/kerfaiyass54/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kerfaiyass54.kerfaiyass54&"  />
-</div>
+![Top Languages](https://github-readme-stats-kerfai-yassine-2026.onrender.com/api/top-langs/?username=kerfaiyass54)
+```
 
 ###
