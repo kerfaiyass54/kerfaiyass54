@@ -231,26 +231,10 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&hide=contribs,issues)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&rank_icon=percentile)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerfaiyass54\&include_all_commits=true)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kerfaiyass54\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kerfaiyass54\&locale=de)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kerfaiyass54\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerfaiyass54&langs_count=10)
