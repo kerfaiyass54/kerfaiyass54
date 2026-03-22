@@ -49,7 +49,7 @@ Outside of coding, you’ll find me exploring new tech 🔧, learning 📚, or e
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,bash,bootstrap,cs,css,dart,debian,discord,docker,dotnet,elasticsearch,fastapi,figma,firebase,flask,flutter,git,gihub,gitlab,gmail,html,idea,instagram,java,jenkins,js,kafka,kubernetes,latex,linkedin,linux,mongodb,netlify,npm,postgres,postman,powershell,pycharm,py,pytorch,react,redux,spring,sass,sklearn,tensorflow,ts,ubuntu,vim,visualstudio,vscode,vite,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,angular,aws,bash,bootstrap,cs,css,dart,debian,discord,docker,dotnet,elasticsearch,fastapi,figma,firebase,flask,flutter,git,github,gitlab,gmail,html,idea,instagram,java,jenkins,js,kafka,kubernetes,latex,linkedin,linux,mongodb,netlify,npm,postgres,postman,powershell,pycharm,py,pytorch,react,redux,spring,sass,sklearn,tensorflow,ts,ubuntu,vim,visualstudio,vscode,vite,windows,)](https://skillicons.dev)
 
 
 ###
